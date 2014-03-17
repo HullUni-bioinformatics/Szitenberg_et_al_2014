@@ -1,0 +1,14 @@
+YR element hits in Hbac
+===================================================================================================================================================================================
+Fragment(species:contig:YR_start_on_contig)    Structure_Indication    start_on_contig    end_on_contig    Contig_length    Fragment_length     YR_evalue    RT_evalue    MT_evalue
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      Hbac:contig03147:5463                 YR_only                  1             8969             8969               8969    1.7908e-09            -            -
+                      Hbac:contig03147:3798                 YR_only                  1             8969             8969               8969    3.8535e-03            -            -
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Indications are structural and not phylogenetic.
+Indications depend on Ugene parameters.
+1. pat1-like: ==>=RT=MT=>>=>=YR=>>=.
+2. kangaroo: ==>=RT=MT=>>=>=RY=>>=.
+3. PAT: =>RT=MT=YR=>>=>=>>.
+4. dirs1-like: =>=RT=MT=YR=<>>=<<=.
+5. Ngaro or Viper: =>RT=YR=>>=>=>>=.

@@ -1,0 +1,634 @@
+ID   2058_5; ; ; DNA; ; UNC; 982 BP.
+XX
+AC   2058_5;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_2058 from: 1 to: 982
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(5..628)
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="5..628"
+FT                   /evalue="3.73741e-36"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_2058"
+FT                   /translation="PSSLVQYGLRKWWDFCANNNLDPLSPNEIAIVNFLASLSTKLSYS
+FT                   SLVVIKAAVVTFTKQLNVPLGELPLVSKLLKGRFRKAPSTPKYSSIWRVEDVLRHIKSL
+FT                   GRNETLSLKDLSLKTIMLCALCSPKRVSELAKFDSKFLSTKGNSWLFTIPGMTKNRRVG
+FT                   GVAHSAELFPFREDDRICPIKTLRAYMDRTAEFRDSNTKIFLSFR"
+FT   DOMAIN          complement(823..978)
+FT                   /product="MT"
+FT                   /assembly="Otip_YR_fragments.fas"
+FT                   /loc_on_contig="823..978"
+FT                   /evalue="9.266e-21"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_2058"
+FT                   /translation="TDAFSFSWRGLNVYAFPPFNLVARVISKAIREQIKSMILVAPGWK
+FT                   AQAFFPL"
+FT   TE              5..628
+FT                   /element="two_domains"
+SQ   Sequence 982 BP; 254 A; 222 C; 263 G; 243 T; 0 other;
+     gggctcgaaa ggagaggaag attttggtat tgctatccct gaactctgca gtcctatcca        60
+     tataggctcg tagagtcttg atcgggcaga ttcggtcgtc ctccctgaag ggaaacagtt       120
+     ctgccgaatg tgcaacacct cctacacggc ggttcttggt catccccgga atcgtgaaaa       180
+     gccaagagtt tcccttcgta gacagaaatt tcgagtcgaa ttttgctaat tctgagactc       240
+     gttttgggga acaaagagcg cagagcatta tagtttttag ggagaggtct ttcagtgaaa       300
+     gagtctcgtt cctgcccaag ctcttgatgt gtctcagtac atcctctact ctccagatcg       360
+     acgagtattt gggtgtactg ggggcttttc tgaaccttcc cttgagaagc ttagaaacta       420
+     gaggcaattc gccaagagga acgttcaatt gtttggtaaa agttactacg gctgctttta       480
+     tgaccacgag ggaagagtaa cttagtttcg tgctcaagga agcgaggaag ttaactatgg       540
+     caatctcgtt tgggctaagg ggatctagat tgttattcgc acaaaagtcc caccatttcc       600
+     gtaacccata ctgtacgagg gaagagggag cccaggaatt cagaattagg gaaataccca       660
+     cctcggacat tccggctgat ctccagaagt tggagagatc ttccatgcgg ccaggcgcat       720
+     tcctcgcacc aaacaaggat gggggagacc cattgggttg gccagaagcg gcgcgccagc       780
+     tgtgagtggc acccacattc gggagctctc ccactgattt agcagtggga agaaggcctg       840
+     tgctttccac cctggagcga ctaaaatcat ggacttgatt tgttcgcgaa tagctttcga       900
+     gatcacgcga gcgaccagat tgaaaggtgg gaaagcgtag acattaagtc ctctccagga       960
+     aaaggagaag gcatcagtca tt                                                982
+//
+ID   13281_120; ; ; DNA; ; UNC; 327 BP.
+XX
+AC   13281_120;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_13281 from: 1 to: 327
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(120..326)
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="120..326"
+FT                   /evalue="6.57205e-18"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_13281"
+FT                   /translation="FRAPHKAINSTSVARWIRSLLSAAGITGYGAHSTRAATTSKASLN
+FT                   GVSSAQIMRAACWSTTGSTFERFY"
+FT   TE              120..326
+FT                   /element="YR_only"
+SQ   Sequence 327 BP; 90 A; 79 C; 71 G; 87 T; 0 other;
+     tctatagttt ttagcaaaat ataacattat atctcataat ctggacaaac attgctagtt        60
+     taaagtaccc acttgaggac ggagctttga aaaacctcat catcaaactc tgtcttgtgg       120
+     tagaaccgct caaatgtaga gccagtggta ctccagcagg ccgcgcgcat tatctgtgca       180
+     cttgaaaccc cgttcaaact agctttggac gtagtagccg cccgtgtaga gtgtgcccca       240
+     taacctgtga ttcctgccgc tgataacagc gaacgaatcc acctagctac cgaagtgctg       300
+     tttatagctt tatggggggc tcgaaag                                           327
+//
+ID   13156_43; ; ; DNA; ; UNC; 451 BP.
+XX
+AC   13156_43;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_13156 from: 1 to: 451
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          43..288
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="43..288"
+FT                   /evalue="7.67984e-15"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_13156"
+FT                   /translation="RRSRRKKIILVLKSFTTPRPITYSTAVADLKKAFAEAGLASKKYT
+FT                   SHSFRGGAASAALEAGWDSTSVMVTGRWKSATAFQAY"
+FT   TE              43..288
+FT                   /element="YR_only"
+SQ   Sequence 451 BP; 119 A; 122 C; 105 G; 105 T; 0 other;
+     atgtcacgcc gaaagaagac aatctactcg cggaattttt gaagaagatc aagaagaaag        60
+     aagattatac ttgttctcaa gtctttcacc acgccgcgtc ccattacgta ctcgacagcg       120
+     gtcgcggatc tgaagaaagc tttcgccgaa gcaggactgg ctagcaagaa gtatacgtcg       180
+     cactcgttcc gaggaggagc agcctcagcc gccctagaag ctggatggga ctcgacatca       240
+     gtcatggtca ccggcagatg gaagagcgca actgcatttc aagcctacat tcgaccccag       300
+     cctttcccag tggcgcagat tgttggcgat gaccatgtca tctaatttca gaccccaaag       360
+     aacccagatc ggttagcttg ttctctttcc gctaataatt tatcacaatt ttcatacacc       420
+     gcgtccagtt gcggacatcc gggtctcttg c                                      451
+//
+ID   15123_14; ; ; DNA; ; UNC; 616 BP.
+XX
+AC   15123_14;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_15123 from: 1 to: 616
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          14..217
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="14..217"
+FT                   /evalue="2.21045e-12"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_15123"
+FT                   /translation="FEPSHKAINNTPVVRWIRSLLSAAGYLYVAHSTRLGTTSKASLNG
+FT                   VSTEQIMGASCWSTTDSTFERFY"
+FT   TE              14..217
+FT                   /element="YR_only"
+SQ   Sequence 616 BP; 179 A; 142 C; 135 G; 160 T; 0 other;
+     atcttcctct cctttcgagc cctcccacaa agctataaac aacactccgg tagttaggtg        60
+     gattcgctcg ctgttatcag cggcaggata tctttatgtg gcacactcta cgcgtctggg       120
+     cactacgtcc aaagctagtt tgaacggggt ttcaacggaa cagataatgg gcgcatcctg       180
+     ctggagtacc actgactcta catttgagcg gttctaccgc aagacagagt ttgattatga       240
+     ggtttttcaa agctccgtcc tcaagtgggt actttaaact agcaatgttt gaccagatta       300
+     tgagatataa tgttatattt tgctaaaaac tagagagttt tgaagtaaaa tatttattat       360
+     tactcataat atggacaaac acgaccctcc ctacccatcc cttaactttc ggacgggaaa       420
+     aatgtgggag tgaaaaatct atttcaacta atgtgtttta gatcgtcaac gaagacatcg       480
+     agaagtaatt cgtcgcgtcc cagctcaaaa cgtcgcagcg aggatcggaa gcccaggttc       540
+     caggctccca agcgcggaag atacgacaca aggaagagcg ggaagaagaa ataacccccc       600
+     acgatcttgc cttttg                                                       616
+//
+ID   1467_90; ; ; DNA; ; UNC; 1300 BP.
+XX
+AC   1467_90;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_1467 from: 1 to: 1300
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          90..602
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="90..602"
+FT                   /evalue="3.02339e-11"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_1467"
+FT                   /translation="SAHLASPKLPQRLPKDLSEAQVERLLQAPLIDQPLELRDKAMLEV
+FT                   LYATGLRVSELVGLTMSDISLRQGVVRVIGKGNKERLVPLGEEAVYWLETYLEHGRPWL
+FT                   LNGVSIDVLFPSQRAQQMTRQTFWHRIKHYAVLAGIDSEKLSPHVLRHAFATHLLNHGA
+FT                   DLRVVQML"
+FT   TE              90..602
+FT                   /element="YR_only"
+SQ   Sequence 1300 BP; 334 A; 301 C; 351 G; 314 T; 0 other;
+     ataaagccac cagctcagcg cgtttgctga gtgcagtgcg ccgattgttc cagtatcttt        60
+     atcgcgaaaa gtttcgtgaa gacgatccca gtgcgcatct cgcttcaccg aaattgcccc       120
+     agcgtttgcc aaaagattta agcgaagcgc aggtcgaacg tttattacag gcaccattaa       180
+     ttgatcagcc actggagcta cgcgataaag ccatgcttga agtgttgtat gctaccgggc       240
+     tgcgtgtctc tgaactggtc ggactgacaa tgagtgatat cagcctgcgt cagggcgtag       300
+     tgcgggtcat tggtaaaggc aacaaagagc gcctggtacc gttaggtgaa gaggcggttt       360
+     actggctgga aacctatctg gaacatgggc gtccgtggct gctgaatggt gtgtcaattg       420
+     acgtgttgtt tcccagccag cgtgcgcagc agatgacgcg acagaccttc tggcaccgca       480
+     ttaaacatta tgctgtgctg gcgggtatcg acagcgaaaa gctgtcaccg catgtgttgc       540
+     gtcacgcttt tgccactcat ttattaaatc atggtgcgga tttacgcgtg gtgcagatgc       600
+     tactgggcca cagcgatctt tccaccacgc aaatttatac gcatgtcgct accgagcgtc       660
+     tgcgacaact tcatcaacag catcacccgc gggcgtgatg tctggaaaga acgggaagat       720
+     ttatgaagaa aggttttatg ttgtttactt tgttagcggc gttttcaggt tttgctcagg       780
+     ctgatgacgc ggcaattcaa caaacgttag ccaaaatggg catcaaaagc agcgatattc       840
+     agcccgcgcc cgtagctggc atgaagacag ttctgactaa cagcggcgtg ttgtacatca       900
+     ccgatgatgg taaacatatc attcaggggc caatgtatga cgttagcggc acggctccgg       960
+     tcaatgtcac caataagatg ctgttaaagc agttgaatgc gcttgaaaaa gagatgatcg      1020
+     tttataaagc gccgcaggaa aaacacgtca tcaccgtgtt tactgatatt acctgtggtt      1080
+     actgccacaa actgcatgag caaatggcag actataacgc gctggggatc accgtgcgtt      1140
+     atcttgcttt cccgcgccag gggctggaca gcgatgcaga gaaagaaatg aaagctatct      1200
+     ggtgtgcgaa agataaaaac aaagcgtttg atgatgtgat ggcaggtaaa agcgtcgcac      1260
+     cagccagctg cgacgtggat attgccgacc attacgtcct                            1300
+//
+ID   15074_3; ; ; DNA; ; UNC; 444 BP.
+XX
+AC   15074_3;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_15074 from: 1 to: 444
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          3..428
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="3..428"
+FT                   /evalue="4.36415e-06"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_15074"
+FT                   /translation="PATISVYQQRIKEFTKFWWSKCPYASQDKTRLLFLAEKFKLGQSK
+FT                   MLATHVAAQNFYLGCLQPKMKEIQKALLETAARSAAPTHHRTKMCSEDFGRLMETLPKP
+FT                   GDFAVRRSAIIALLTYRAALRISEALALKGQDLEVVSD"
+FT   TE              3..428
+FT                   /element="YR_only"
+SQ   Sequence 444 BP; 119 A; 130 C; 108 G; 87 T; 0 other;
+     cccccgccac aatctccgtc taccaacaga ggatcaagga gttcacgaag ttctggtggt        60
+     cgaagtgtcc atacgcctct caagacaaaa cgcgcctact ctttctggcg gagaagttca       120
+     agctgggaca gtccaagatg ctcgccaccc acgtggccgc acagaatttc tatctgggat       180
+     gccttcaacc caagatgaag gagatccaga aagctctgct agagacggcc gcaagatcag       240
+     cagctccaac gcaccatcga accaaaatgt gctctgaaga cttcggacgt ctgatggaaa       300
+     ccttaccaaa gccaggagat ttcgccgtga gaagatcggc cataatcgct ctactcacgt       360
+     accgagcagc cttgcgaatc tctgaagcgc tcgctctcaa aggacaggat ctggaagtag       420
+     tctcggatct ccgctggatc gtac                                              444
+//
+ID   2556_296; ; ; DNA; ; UNC; 932 BP.
+XX
+AC   2556_296;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_2556 from: 1 to: 932
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          296..910
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="296..910"
+FT                   /evalue="1.46446e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_2556"
+FT                   /translation="PITLLNYQRQLEAIINFASENGLQSWQQCDAAMVRNFAVRSRRKG
+FT                   LGAASLALRLSALRSFFDWLVSQNELKANPAKGVSAPKAPRHLPKNIDVDDMNRLLDID
+FT                   INDPLAVRDRAMLEVMYGAGLRLSELVGLDIKHLDLESGEVWVRGKGSKERRLPIGRNA
+FT                   VAWIEHWLDLRDLFGSEDDALFLSKLGKRISARNVQKRFAEW"
+FT   TE              296..910
+FT                   /element="YR_only"
+SQ   Sequence 932 BP; 212 A; 226 C; 287 G; 207 T; 0 other;
+     aacagcacta tcttgggccg cttaacggac cggagctgct ggtggtgcta ccggaagcga        60
+     aagcggtggg atcggtggcg atgtcgatgc tgggaagcga tgctgatttg ggtgtcgtgc       120
+     tgtttaccag tcgcgatgcc agtcactatc aacaagggca gggaacgcag ttacttcatg       180
+     aaattgcgct gatgttgccg gagcttctgg agcgttggat tgaacgcgta tgaccgattt       240
+     acacaccgat gtagaacgct acctacgtta tctgagcgtg gagcgtcagc ttagcccgat       300
+     aaccctactt aactaccagc gtcagcttga ggcgatcatc aattttgcca gcgaaaacgg       360
+     cctgcaaagc tggcaacaat gcgatgcagc gatggtacgc aattttgctg tacgcagtcg       420
+     ccgtaaaggg ctgggagcag caagcctcgc gttacggctt tctgcgctac gtagcttttt       480
+     tgactggctg gtcagccaga acgaactcaa agctaacccg gcgaaaggtg tttcggcacc       540
+     gaaagcgccg cgtcatctgc cgaaaaatat cgacgtcgac gatatgaatc ggctgctgga       600
+     tattgatatc aacgatcccc tcgctgtacg cgaccgtgca atgctggaag tgatgtacgg       660
+     cgcgggtctg cgtctttccg agctggtggg gctggatatc aaacacctcg acctggagtc       720
+     cggcgaagtg tgggtgaggg ggaaaggcag caaagagcgc cgcctgccga ttggtcgcaa       780
+     cgctgtggcg tggattgagc actggcttga tttgcgcgac ctgtttggta gcgaagacga       840
+     cgcgcttttt ctgtcgaaac tgggcaagcg tatctccgcg cgtaatgtgc agaaacgctt       900
+     tgccgaatgg ggcataaaac aagggctgaa ta                                     932
+//
+ID   8477_1336; ; ; DNA; ; UNC; 1726 BP.
+XX
+AC   8477_1336;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_8477 from: 1 to: 1726
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          1336..1494
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="1336..1494"
+FT                   /evalue="3.23228e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_8477"
+FT                   /translation="TSWLSACRRAGIEDFRFHDLRHTWASWLIQSGVPLSVLQEMGGWE
+FT                   SIEMVRRY"
+FT   TE              1336..1494
+FT                   /element="YR_only"
+SQ   Sequence 1726 BP; 538 A; 398 C; 433 G; 357 T; 0 other;
+     tacgtcgccc accacggcac tccctgcaaa atcctgcgtt ctacccacaa caaagttcac        60
+     tacatccgaa aaggcagaac atgtatcgcc agcatgttcc gctttaatca tgactttgaa       120
+     cctgtgaata aagctgatgc agatcggata gcagaagaga tcgaaacggc agaacacatt       180
+     aagaagttac gtgacatgcg ttcaaaaagc agaggtaacc atggaatcat acagcctcac       240
+     actcgatgag gcctgtcagt ttcttaagat atccagacca accgccacca actggatacg       300
+     aacaggccgc ctacaggcaa cacgtaaaga tccaaccaag ccaaaatctc cttacctcac       360
+     aacacggcaa gcctgcattg cggcgcttca gtctccgctg catactgtcc aggtgagcgc       420
+     gggtgatggc ataacagagg aaagaaaatg tcactcttcc gcagaaatga aatatggtat       480
+     gcctcgtatt cgctcccggg cgggaaacga attaaggaat ctcttggcac aaaggacaag       540
+     cggcaagctc aggagttgca cgacaagcga aaagcagaac tctggcgagt agaaaagcta       600
+     gaccatttac ctgatgtcac ttttgaagag gcctgcctaa gatggcttga ggaaaaagct       660
+     gataaaaaat ctctcgattc agataaaagc cggattgagt tctggcttga acattttgag       720
+     ggtataaggc ttaaagatat ctcggaggca aagatttact ctgctgtaag cagaatgcat       780
+     aacagaaaga cgaaagaaat atggaaacag aaagttcagg ccgccatcag gaaaggtaaa       840
+     gaactgcctg tttatgaacc aaagccagta ccaactcaga caaaggcaaa gcatcttgcc       900
+     atgataaagg ccattctccg tgctgcagaa cgcgactgga agtggctgga aaaagcgcct       960
+     gtcatcaaga taccagcggt cagaaacaag cgagtcagat ggctggaaaa ggaggaagca      1020
+     aaacgcctta ttgatgagtg ccccgaacca ctgaaatctg tcgtcaagtt tgcgctggca      1080
+     actggtctga gaaagtcgaa catcataaat ctggaatggc aacaaatcga catgcagcga      1140
+     cgagttgcct gggtgaatcc agaagagagc aaatcaaacc gcgccattgg tgtggcgctg      1200
+     aacgataccg cctgtaaagt gttgcgtgat caaataggca agcatcacaa atgggtgttt      1260
+     gtacatacca aggcggctaa gcgagcagat ggaacatcaa cgcctgcggt caggaagatg      1320
+     cgcatcgaca gcaagacatc atggctatca gcttgtcgtc gtgcaggaat tgaagatttc      1380
+     cgtttccatg acctcagaca cacctgggca agctggctga ttcagtcagg cgtcccatta      1440
+     tcagtgcttc aggaaatggg cggatgggag tccatagaaa tggttcgtag gtatgctcac      1500
+     cttgcgccta atcatttgac agagcatgcg aggaaaatag acgacatttt tggtgataat      1560
+     gtcccaaata tgtcccactc tggaattatg gaggatataa agaaggcgta actgattgaa      1620
+     ttgtaatggc gcgccctgca ggattcgaac ctgcggccca cgacttagaa ggtcgttgct      1680
+     ctatccaact gagctaaggg cgcgttgata ccgcaatgcg gggtta                     1726
+//
+ID   3635_296; ; ; DNA; ; UNC; 604 BP.
+XX
+AC   3635_296;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_3635 from: 1 to: 604
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          296..403
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="296..403"
+FT                   /evalue="3.50888e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_3635"
+FT                   /translation="SFFKEDD*ICPYKTLRAYMDRSAEFRASNTKIFLFF"
+FT   TE              296..403
+FT                   /element="YR_only"
+SQ   Sequence 604 BP; 167 A; 136 C; 115 G; 186 T; 0 other;
+     tccatcaata atttttatac gtagaatgtt catacttatt caaaaaattc aaaaaaggca        60
+     gccttattaa cttttgccaa acagccctcg gcgatttgtc tctagtttct aggtttcttt       120
+     tctttgaaag ttctcttcat aaaaacttta atgctctgcg ctctttgttt cccaaagcga       180
+     gtcacagaat tggcaaagtt ccacccggag tactaagaac ggtaactctt ggcttttcac       240
+     agttccgtgg atgaccaaaa accgtcgtgt aggaggggtt acacattcgg cagactcttt       300
+     cttcaaggaa gacgactgaa tctgcccgta caagactcta cgagcgtata tggataggtc       360
+     tgcagagttc agggctagca atactaaaat ttttcttttc tttcgaactt gctggaatac       420
+     cactgactct acatttgagc gattatacca ccagaccaag gtggaccatg agatttttca       480
+     aagttctgct cacaagtggg tactttaaac tagcactatt cgtccagatt atgagatatc       540
+     ctacctttac agtttgcaag aggcgcccgt ctgcaaaaca tgtccaatct ctgaggttgt       600
+     ctcg                                                                    604
+//
+ID   3635_121; ; ; DNA; ; UNC; 604 BP.
+XX
+AC   3635_121;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_3635 from: 1 to: 604
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          121..198
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="121..198"
+FT                   /evalue="3.50888e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_3635"
+FT                   /translation="SLKVLFIKTLMLCALCFPKRVTELAK"
+FT   TE              121..198
+FT                   /element="YR_only"
+SQ   Sequence 604 BP; 167 A; 136 C; 115 G; 186 T; 0 other;
+     tccatcaata atttttatac gtagaatgtt catacttatt caaaaaattc aaaaaaggca        60
+     gccttattaa cttttgccaa acagccctcg gcgatttgtc tctagtttct aggtttcttt       120
+     tctttgaaag ttctcttcat aaaaacttta atgctctgcg ctctttgttt cccaaagcga       180
+     gtcacagaat tggcaaagtt ccacccggag tactaagaac ggtaactctt ggcttttcac       240
+     agttccgtgg atgaccaaaa accgtcgtgt aggaggggtt acacattcgg cagactcttt       300
+     cttcaaggaa gacgactgaa tctgcccgta caagactcta cgagcgtata tggataggtc       360
+     tgcagagttc agggctagca atactaaaat ttttcttttc tttcgaactt gctggaatac       420
+     cactgactct acatttgagc gattatacca ccagaccaag gtggaccatg agatttttca       480
+     aagttctgct cacaagtggg tactttaaac tagcactatt cgtccagatt atgagatatc       540
+     ctacctttac agtttgcaag aggcgcccgt ctgcaaaaca tgtccaatct ctgaggttgt       600
+     ctcg                                                                    604
+//
+ID   6936_15835; ; ; DNA; ; UNC; 11099 BP.
+XX
+AC   6936_15835;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_6936 from: 5835 to:
+DE   16933
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          10001..10111
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="15835..15945"
+FT                   /evalue="0.00291654"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_6936"
+FT                   /translation="KFTSHSFRGGAASAALETGWDSTAVMVSGRSKSTAAF"
+FT   TE              10001..10111
+FT                   /element="YR_only"
+SQ   Sequence 11099 BP; 3226 A; 2332 C; 2296 G; 3245 T; 0 other;
+     tttatatgac tatctgcaaa ccagtttttt aatttacact tccgctacga agctaaaatg        60
+     cagattgtac ggctatttac ttgctcattt tcgtcgtttg aactgtaaat tccttccgat       120
+     tttgattttt agtcacgcca attgaaactg tctcgcgcca gcatttatcc ttttcagctg       180
+     ggaggaaact tctttgcata aattgcatga aaaaattgat gatcccgtcc aagttcacta       240
+     tctacaatcg cagaaaacac aaagggagat gctgtttgca aatgtaagta gcaaacaaaa       300
+     aaatatgtgt gtatgctttc aatgctcata atgctcttat ggtcatgact agaatcatca       360
+     taaaaacagt acagacgata acagtctgcg ccttgcaaac atgagattct tcttagttgc       420
+     tatcattctg aattgctatg ttcactgcca aaattctgtg gactttgcgg tattcgtcgt       480
+     ttgcaataac attacccctt atcgacagat aagttatctc acaagctacg gctttttatc       540
+     tgaatcctca ctacctggag taggagattc tatttctcta tacgaaattc tcctagactt       600
+     tcaggttgtt tcttcttact ttatcgtgta aagcacatcc tcaggcttac tattccttga       660
+     atcaaactgg catactggat gacgaaaccc taaaactcat gtcgaccgaa agatgtggtg       720
+     tcaaagacat aacgttttca tatgaatatc tgcaaacaca tatattttag cgattctgaa       780
+     agcagaaaga agcgctctct gagacatcga tggacgaaac ggaacatcaa atacttgtgg       840
+     gtgtacttca aaggcaaaac ggggtttagc atagcgtcgt actcacctca tttcacagta       900
+     gatagaataa acagcgagta ctatcgagca gttgaacgag gatggcagcg atacacaccc       960
+     gccttgacag ttgcaagaac aaccaacatt gctgaagcaa acattgtaat caacttcacc      1020
+     ggatgttcat ttctagagtt taaaaaagtt tagtttagac actagaccag cacaatcgaa      1080
+     tctgctcaca gatgttcaaa tcgttggagg tggcccatgc attctatcct gaaattgggc      1140
+     aaatacattt taacatggat ttcaatttga gcgctcgtaa ataatgtcac tcgaagcttg      1200
+     acaatggatt caatttcagg acccgaccaa cttggtaaca caattatcca tgaattcgga      1260
+     cacgccatcg gtctggagca cgaaaaaaat agcagaaggt aaacatccgg taacttttaa      1320
+     tattttttca gtttaatgta cgcaatagac acttccacac ccaaatttta ttccagtgaa      1380
+     agcattactc tgcttgggca gacctatggt tgtctcagtt tattactctt attcagtgct      1440
+     gttatagctc tcccaagaaa gaaaagaagc atcagcagag ctgaaaggat ggaaatcgag      1500
+     caccgtacgc aaaatggaca agatccgttt cccagctttg gttaaaacca ttaagaggtc      1560
+     cgcctcagtg gagaaggaaa gtggtaatat aaaatagtga tgaaaaatct tataatatgt      1620
+     gttttctctt ctttgatgca aactttacac catcttccga actgtttacc cgtcaaaata      1680
+     cgactgatag attgccgaaa ttacgcctgt ttacctggtc gagactatga tgtcaacagg      1740
+     tggacgctat aaaaggtcac ccagttgctt gtgattttca aagatgaact tcttctttgt      1800
+     ttttgcttgc gttttcgctt cgatctcaac aacaacagcc cagtatggac tctatggatt      1860
+     ccccggttat ggtctaggtt atccgagcta cggtttcggt ggaatgtatg gcagtggaat      1920
+     gggctggaac cctgtgaggt ttgtttcagt tcttgttgtt cctgtaaaaa cagagtttag      1980
+     gggtgctatc cgaggcggac tgttcggcgc cgctcttgga agaccactgc aaggagcact      2040
+     tgttggagca gcacttggaa aaaagaaata agttggctaa atgactggtg gatgcaaata      2100
+     ataaacaatt tttactacga ccagtcttct actaaaacgt ctgtaggcct gtagactgtt      2160
+     ttaccctggc ctctcattgg acaacagctc ttcgccattc atggaccctg ttgtccagaa      2220
+     gatggtgtat gctctcctta agcgccttaa acttgatttt cttccgtatt atttaaacct      2280
+     acttgttgca aaccaaataa attgggactg tcgaaaagtt ccacccaagc cagataagct      2340
+     tgaacacgta aagatacatg atctgactca tccccaagta ctgcggtacc catcctttcc      2400
+     cagtcaaaat atcgatggtg accagaatga acgggaaaaa gaaactagag cagaacgctt      2460
+     gaacagacat gtactgctcc ttcttgattg aggtgcttct cttttggaca gcgacgattt      2520
+     gaccaaaaat gatcatgtag gcaagaaaag acagaaacat tgcgacaagc tcgatgtaat      2580
+     acatatagta gaatacaata ttggcgtaat ttttaactgt gtttttgtac ggaattgttg      2640
+     tattgatggc gccgttggag gcccggtagt cttcaattag aacaaagaag agaactagtt      2700
+     gatagatcat ggctgtcagg aagaagatga aaaccacaat gtatcccatc ttaacgtttt      2760
+     ggttttcttt atagttttat catcactaac aataagacag ttgtctagat tattttgaaa      2820
+     aacttccgca tttcactctc ttcccttttc tgattgtttg ggtatgaatt ggttttttgt      2880
+     tccaagcata tacatcactg ttcgtacaaa acataacgag gtttcgactc caacttcggt      2940
+     attacgcaga taaactgatt catggtctca ctttaaatat cattttgcga agctgaattt      3000
+     agttaactgg attcacagac tagtagattg ttgaggatac tgtgattatt ctctgatcta      3060
+     tctacttatc tagctgacgc tcagtgtact ttaacacaaa agtccactcc tcaccaaata      3120
+     agcagttttt gagttaaaaa ctgaggatga tgacagcgtg acaactacaa agcgattata      3180
+     ggagagaaga acggcaagaa ttattccagt atgccaaagt gttgcgatga ttgagttcgc      3240
+     aatcttaaaa tgggattgtt tcttgaaata tgacggtgag ttacgttaaa cagaaaaaca      3300
+     ccgaacgctt ttccaaaagc aaggaagtac tcttccatga aaagttccat cgagtgctcg      3360
+     acgtgcaaaa ccatttcaac gcattcacaa atccccagaa gaaacatgat gttaaaggct      3420
+     ctgttatcat tgaacttttt gttgaagtag aagatctgaa gagagaaaaa aatactaaaa      3480
+     agtggtaaac ttgccagggt gagaggaaca tgcaaacata tgcctatcaa gccaagaaca      3540
+     atagtgcaag aaaagtaaat tttatgggtt tctatgtggc cgaagacact ctgaagtaag      3600
+     tcatctaact ctttgagaca acaaaactca ccaaaagaag agggaagata ataacgaagc      3660
+     tgatgatcac agtgatcgaa agaaaaatct tccaaaaggt ggcctcttta gagatcatag      3720
+     cctatctatc tatcagacaa tctgaatcaa cttgctgaat ggtgcgcaaa tttgatttaa      3780
+     tgtgagggca aaaggtcagt tattaggtat tctatgattt tacttcactg taggacgagg      3840
+     caataaaaat tgaacacaaa gttcaccagt ggaggatgag ctgtcaccaa cagaaaagga      3900
+     agtatctgga ctgccgtcta gacaacaaca cacgaccgag gtgcaattag tgaaaagcaa      3960
+     aacaatacac gactaatacg atgaacagat gtttttcttt aattattcct ttttagcttt      4020
+     actctttcca gcgaaggata cagttcggaa acagtatcct ggcaaagaca ggagcacgaa      4080
+     ggcggtcatt aaatgatttc aacgtttcgc agtcagcttt actatggtaa accttttcag      4140
+     agctcccctt atttcgagta ttttcaggtt aagtccattt tgcagcttct catattgttg      4200
+     actgatccac gaaccaatca atcacccaac tggccatcac agcgcgatcc ttgctctctg      4260
+     gcagattgct gctggcagct ttttgctcag gagtctttta ttacttcctc gctcagatct      4320
+     acagcctaaa atgagtgaag acaatttgtc agtcgtgctt catggtgtca atgacatgcg      4380
+     tatagaacaa agagaagttc cgactgccgg acatggccag atcttgattc ggtgggttac      4440
+     taactagaag taataaagca aagttagcat gaacacagtt ggaatttgtg gctctgatgt      4500
+     tcacttttgg acccacggag caattggtag ttttgtagtt cgagaaccaa tggtccttgg      4560
+     acatgagagt tctggaattg tggctggtat tggtcctggg gttgaagggt tcaaggtcgg      4620
+     agatcgcata gctattgaac ctggtctccc gtgcaaaagc tgccaaattt gcaaggtaag      4680
+     atatttcgct ccgacccact cttaagttta gaaaggacgc tacaatctct gtgcagatga      4740
+     gaagttcttt gccactcccc cagtcagtgg agctttgtca cgttttgtcg cctatgacgc      4800
+     tggtttctgc tacaggtaag ttgtacagaa gttttctttt ttagggatat tctgttcagg      4860
+     ctaccagacc atgtttcctt cgaagaagga gctctgttag aacccctatc agtagctgtt      4920
+     catacctgta accgggcgaa tattcgaatt ggggaaaggg ttcttgtcat gggtgcaggt      4980
+     aatacttttt agctgtaacg gaaacaaaac actattcagg tccaattggt actttgtgta      5040
+     tgatgactgc gaaagcctgc ggcgctggcc tgattttggt tgccgacttg gatgaatccc      5100
+     gtctggaaca agtcaagcaa ttgggggctg acttcactat caacgctagg tttttactgt      5160
+     tctattctgt ccaaatgtga tttcagaggt aaatccgctc aacaaatagc cgacgaagct      5220
+     gtcgatcttt tgggacgagc accagatgct acattggaat gcacgggtgc tgctgtttgc      5280
+     atcagttctg ggatcctggt acagtcgagt cacactataa cttaaccttt tttttttttt      5340
+     acaaagtttg gacgcagtac aaaaacaacc atttttatac tcgctataac gtacttgaaa      5400
+     aattgctgtt ttttgcgcgg gcagacatat ttccgaaaat ttccaagatt cgaaggtgat      5460
+     attcgatttt tctatcctgt ttttctttcc ctcccccccc tttttttttt cggggcatac      5520
+     ctatcttgcc ctttccaaca aaaaaaaaac gattgctaaa gaccattgct aattagttaa      5580
+     acccacttcc cactctttga ccccgttgcg cgtctctcga acccactcca atttcactat      5640
+     cctgacagct ataactgtct ttgagccctg tactgtatat atttccttct gtcaaccctg      5700
+     ttcgcatatg tccctccaga cgagctaacg ttcacccaga aaactgaaaa ctcttaaact      5760
+     gacttgactt gcaagtagtt attgctgtca caagcaacta tgacaaatag gctattcttc      5820
+     agacagacag atacacacac gcagactttt gggcattttg aactagatag tgagacaata      5880
+     agctccaata actggagcaa acacgtcgtc cggagtcaac cattgaccat tgttgcagac      5940
+     gaaagaaaac taaattgtga agaagcaaag atgaaatttt accgttgggc cagcaatgag      6000
+     gtcagcatta ggatccataa tatctttata gaatttggac atactgtttt caacgtaatt      6060
+     tattgttatc tgattcgcca tattgataga cacacacaca cactagataa ctgcctaatt      6120
+     gtgtagaaaa ctcgttataa cgcactgtac ctctcatttt gggtcaaaaa gcctcggtat      6180
+     acgtacttct caatataatg tatatctcgc tataatgcac tccgagggaa tacgttatag      6240
+     tgagactcga ctgtttacct aaactcttaa accgtatacg ttatgttagg ccactcgccc      6300
+     tggaggagtg ttggttatgg taggacttgg agatcctctt gtggaagtgc ctttgattga      6360
+     agcggcacta aaggaggttg acattcgcag taccttccgc tacgccaact ggttaggcta      6420
+     ctattgttac tctttcgagc cagtaagttc cagttaccca acagccttgg agctcgttgc      6480
+     cacaggaaga atcgtcttgt ccggtctaac aagagctcat tacacgctcg aggaatcact      6540
+     ggaagccttc aaaagaacac agaaaggtga tgtcatcaaa gttttcatca catgttagac      6600
+     ttggtccaaa gaatggactg cttttccttc ttaataaaga gaatttgggt cggctgtaaa      6660
+     gacgaaaggg aggggaggca cgacagatgt gccactaaac aggatacttc tacagtttaa      6720
+     atcttactca cacgacaaag ctcacgttta taacagaaag gttactggtc attcaaacct      6780
+     tcagagtaca tcctgtggta tcgtactgtc ccttattgaa attcattgtc agctaaagag      6840
+     aactggcttc aaacactagt tcagtatagt tgcttgtttt tctatgctga gaaaagaaga      6900
+     tgaatgttgt cagtataggg aagcttccag tactgttaat aacctgataa tttgctcccg      6960
+     tcgagaaggc aaaaatacaa ggatctgaac taattatatg cttgttcgaa acgagctagc      7020
+     tgttccacaa atattgtaac gggtaagttg atgcaggaag atagtctaat gagagttcta      7080
+     gaagatgatc tattgtggat tgagagtttg tctgtgtctg ttctacgata tattaccgtt      7140
+     cattaacagt tcggttatta gtttattaat tagatagagg gataaagggg cacacaatac      7200
+     acgacagcga cctgaggaag ctactggagg cggggaatct agcaaaaagc cgggagcgac      7260
+     agactgattc atgtgaaaag atttagagct agagagcatt gaacaaacaa acttatgacc      7320
+     tatgtgttgt ggtacagaga actgctaaaa attggcaatc tttttgatat tcttcccagt      7380
+     gaaagatccc tggtagaccc cgtctccgcg caagaagaat cctatttgtg tttctttggt      7440
+     ggtgtcgata tcctgtggac agccagagaa gacagagaag ctgaacttct ttttattgct      7500
+     gctctggcca ctgcatgaga ctcttgtgga acatgtttga cagcaatcag gttctgaaaa      7560
+     catagtcagc ggagcttgaa gttcatttac tgaagacaaa aatcgtgccc tctccattgt      7620
+     ttaacttttt ggaaccaact tttccatttg gagtcttcaa ctgacatgta actgtggctg      7680
+     taacgtctct tcccatcgtg ttcgccacat gaaagcaaat aatgagcgaa gtaaatttgc      7740
+     ctactttgat tctgtagttt ccaactgcta agacagccgg gagaagaaaa atgaggattg      7800
+     aattcatttg ttacctcaga tttactcatt ccccttatat agataccaca tattaatatt      7860
+     aacatgtttg caatagtaat cagtctgcca aaacactttt tgcatgtact gctcttcgat      7920
+     ttacgaccac tgatcatggt tatgcctttt gtagtcctcc acacttcttt ctcttggaag      7980
+     agggacattt gtttttcttt tgctttattt caagcctcac acaatcgttc gaattatcgt      8040
+     tcgttttact actcgtaatg gacatctgcg cagcttcaaa ataatgcgac atttgacaca      8100
+     gaatattaaa aaagcctaat aatgctcttt gcaaagttgt ttttctgact taatgtattt      8160
+     catttacacg ttgaatgtgt ataaaaggct gaaaggctgt attcatctca caaaagacat      8220
+     gctttcagtt attctaactg ttcttcttac cttcgtcgtt tcaacagatg ctgcctgtaa      8280
+     catcaaattc cctaacggaa ctgctacaaa tgttcattgg tggcaatgca acaaaagccc      8340
+     tatttcgttc tctaacgccc gtacatttga caagaagggt tctgaatgat tcaatgatat      8400
+     agaaacgata tcttttttag gcaataagat gtacccactt cgcgtggacg gtccgatcat      8460
+     tatcaaagtc gacatgaata acccgtcttt gacccttcgg tcccccaatt tgagaatcac      8520
+     ggccacggtt tggacgtggg gaggaatgcg tggttgtggc tggcactcaa taccaacttt      8580
+     tggtttactg taggattctc gaagatatac aaaaataccg ttaaggaaca atttggacgc      8640
+     gtgcaagtac ggtgtgccgt gtccaattcg tccgggaaaa cgcacaatta ctcttactct      8700
+     ggatctgagc aagttccgaa ggattgtcaa gatgttgatg ggtgatcaag cttaccaagt      8760
+     tcagctgcaa ctggaagata agaattccca taagacatcc tgcctgatgg gacaacttcg      8820
+     cgtaaaagtc tgaagaacga acgttttcag aggtttttgt tgtttcaata aagttaattc      8880
+     cggattactt aaattaagta ttattcacaa gataaaacag gttaggaaaa cttttcaggg      8940
+     ttttgtgaaa acaagctaca gcagctctct ttgaaccatt cggtgaaatg atgcggtagc      9000
+     agcagcgttc tgttctgtgt tcaagctatt actgaaggct tcgtttcatc cacatactgc      9060
+     ccttccgatg aaatatacac atggactgct tcctcaacag aataattgaa gattgctcag      9120
+     aagctgtgaa cttacctcga tgttagacgg agggttttat caactgtgat cttttttact      9180
+     cgtcagtcag cttggtgcac gggaagtgcg gggacccgac atataacaat ctcttcttga      9240
+     ctagtcgttc tgtgggtggt cctttcgttc aatcacatta tcattttatt aaaaactttc      9300
+     ttctgtatac aattagcagt cattttttcc tatccattcc cgcttctaaa caagcctgat      9360
+     cgcctgaccc ggggcagact ttttgcaggt ggctaccctt tttctttcag tctattcatc      9420
+     tcgctcatta ttgatcaaca gtttggcagt gagtctcaaa atgcttccct ggactcacca      9480
+     ctacactctt cctacaaagc ttcagcatgc tgatggctct gttattgatt tggagagcac      9540
+     ttttgttccc aggtatgatt catgtttcat tgcgatccga gcttcggatg acgagagaga      9600
+     aaagggagtg aatacagtta gctaaaagaa gtgtttcgga aagctcccat tcaacctgtt      9660
+     aataacaggt tgaatggaag ctttccttcg gccataatcg ctctactcat gtaccgagca      9720
+     gccttgcgaa tctctaaagc gcttgctctc aaaggacggg atctggaagt agtctcagat      9780
+     ctccgctgag acatacacat aaaaagccga agacggacca gggcggtcaa ggagtcaagg      9840
+     ttcctttcga cgttacgcca atagaagaca atcttctcac ggaagtcttg aaaatgatca      9900
+     agaagaagga agatttcttg ctcaagtctt tcaccacgcc gcgtcccatt acgtactaga      9960
+     cggatctgaa gaaagctttc gccgaagcag gacttgctag aagttcacgt cccactcgtt     10020
+     ccgaggagga gcagcctcag ccgccctgga aactggatgg gactcgacag cagtcatggt     10080
+     cagcggcaga tcgaagagca cagctgcatt tcaattcgac ctcagccttt cccagactcg     10140
+     ccgattcttg gcgatgacca ggtcatctac tttcagtcct taaacaaaat cagaacggtt     10200
+     agcctgtttt ctttccgcta ataatttatc gcgcgacttc cataccacgt ccgagtctct     10260
+     tgcaccctat ttcgaagtct cgttttccac aagaaccaac caacgacatt gtcagatacg     10320
+     aaaacgaatg aagcgtcctc atgccaaagc ccaaaacagt ttttctcgta atgaaccaga     10380
+     tgataatcga agagagaatg tcttgttcaa aaggactctg acgtcctact tttccggttt     10440
+     gccatccttg tggacactct tgctctcgtg caggtatagc aatccgcagg aagcatgaga     10500
+     agtccatcgt acaacgtcct tctcagtgta aattgaggtg ttcttaatat attcgtatgg     10560
+     tagacttgtg agtgagagtg aaacagcagg cgaattgatc gcagttggaa ggccataagc     10620
+     aaactgatca gcaaaacgag catgaggcgt ggatttacag acacctcttt gtgaacaccc     10680
+     aaagctccca ggaaacagat ttcgtagtgt tctctggcca agatttatct ctgtcgagaa     10740
+     cttcggcatc aatcactctt tgtctgtaga ccatctccta gattcatcgc ccaagacgaa     10800
+     aaacgtctga ttgcttccca tattgaaagc aatattggct tacgagtact ttctcaattg     10860
+     acagtgaaaa cattgatgct ggggccgtta caatcgcata cgttgtggta gcaagaactg     10920
+     ataagagcat catgagatag gagtctgtga actagaaaac tcgaagtttt actttccgaa     10980
+     atgtgaacat gacaacgttg ttccaacttt cagtttgtct gctctatgcc agcccttgaa     11040
+     ccttttgaag accttgttca tagatggtcg atcattgggc acactagatc ggaagagcg      11099
+//
+ID   13340_9; ; ; DNA; ; UNC; 357 BP.
+XX
+AC   13340_9;
+XX
+DE   Assembly: Oscheius_tipulae_clc3_1.fa, contig: contig_13340 from: 1 to: 357
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          9..341
+FT                   /product="YR"
+FT                   /assembly="Oscheius_tipulae_clc3_1.fa"
+FT                   /loc_on_contig="9..341"
+FT                   /evalue="0.0049507"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_13340"
+FT                   /translation="LLFLAEKFKLGQFKMLATHVAAQNFYLGCLPPEMKETQKTLLETA
+FT                   ARSAAPTHHRTKMCPEDFGRLMETLPKSGDFAVRRSAIIALLTYRAALRISEALALKGQ
+FT                   DLEVVSD"
+FT   TE              9..341
+FT                   /element="YR_only"
+SQ   Sequence 357 BP; 95 A; 100 C; 89 G; 73 T; 0 other;
+     aaacgcgcct actctttctg gctgagaagt tcaagctggg acagttcaag atgctcgcca        60
+     cccacgtggc cgcacaaaat ttttatctgg gatgccttcc acccgagatg aaggagaccc       120
+     agaaaactct gctagagacg gccgcaagat cagcagctcc tacgcaccat cgaaccaaaa       180
+     tgtgcccgga agactttgga cgtctgatgg aaaccttacc aaagtcagga gattttgccg       240
+     tgagaagatc ggccataatc gctctactca cgtaccgagc agccctgcga atctctgaag       300
+     cgctcgctct caaaggacag gatctggaag tagtgtcgga tctccgctgg atcgtac          357
+//

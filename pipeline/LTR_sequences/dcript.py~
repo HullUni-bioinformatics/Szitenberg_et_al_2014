@@ -1,0 +1,36 @@
+from Bio import SeqIO
+
+PL = list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/PL_LTR.fas', 'fasta'))
+names = []
+for record in PL:
+	name = record.description.split(':')[1]
+	if not name in names:
+		names.append(name)
+		
+#RH_in_records  = list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/BEL_RH_query_seqs.fas', 'fasta'))
+#RH_in_records  = RH_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Copia_RH_query_seqs.fas', 'fasta'))
+#RH_in_records  = RH_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Gypsy_RH_query_seqs.fas', 'fasta'))
+
+#RT_in_records = list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/BEL_RT_query_seqs.fas', 'fasta'))
+#RT_in_records  = RT_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Copia_RT_query_seqs.fas', 'fasta'))
+#RT_in_records  = RT_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Gypsy_RT_query_seqs.fas', 'fasta'))
+
+GG_in_records = list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/BEL_GG_query_seqs.fas', 'fasta'))
+GG_in_records  = GG_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Copia_GG_query_seqs.fas', 'fasta'))
+GG_in_records  = GG_in_records + list(SeqIO.parse('/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/Gypsy_GG_query_seqs.fas', 'fasta'))
+
+#RH_out_records = []
+#RT_out_records = []
+GG_out_records = []
+
+outgroups = {'GG': [GG_in_records,RH_out_records]}#, 'RH': [RH_in_records,RH_out_records], 'RT': [RT_in_records,RT_out_records]}
+
+for outgroup in outgroups.keys():
+	for record in outgroups[outgroup][0]:
+		for name in names:
+			if name in record.description:
+				outgroups[outgroup][1].append(record)
+
+#SeqIO.write(RH_out_records, '/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/RH_LTR.fas', 'fasta')
+#SeqIO.write(RT_out_records, '/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/RT_LTR.fas', 'fasta')
+SeqIO.write(GG_out_records, '/media/amir/DATA/work/Dropbox/Nematodes/YR_elements/FORK3_TRE_DISCOVERY_PIPELINE_RESULTS/LTR_sequences/GG_LTR.fas', 'fasta')

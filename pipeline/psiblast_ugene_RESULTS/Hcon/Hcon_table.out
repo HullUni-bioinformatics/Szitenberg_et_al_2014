@@ -1,0 +1,52 @@
+YR element hits in Hcon
+=====================================================================================================================================================================================
+Fragment(species:contig:YR_start_on_contig)    Structure_Indication    start_on_contig    end_on_contig    Contig_length    Fragment_length     YR_evalue     RT_evalue     MT_evalue
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                Hcon:Hcon_Contig0048016:669                 YR_only                  1             2264             2264               2264    2.5530e-30             -             -
+                Hcon:Hcon_Contig0048055:233                 YR_only                  1            11012            12476              11012    4.8195e-28             -             -
+               Hcon:Hcon_Contig0023006:4936                 YR_only                  1             6488             6488               6488    2.5516e-24             -             -
+                Hcon:Hcon_Contig0024082:372                 YR_only                  1             3182             3182               3182    2.1647e-23             -             -
+               Hcon:Hcon_Contig0031128:1195                 YR_only                  1             1872             1872               1872    1.8104e-22             -             -
+               Hcon:Hcon_Contig0059099:6031               pat1-like                  1            16258            24146              16258    2.7286e-22    1.2257e-44    2.7105e-25
+               Hcon:Hcon_Contig0059099:5474               pat1-like                  1            15956            24146              15956    2.7286e-22    1.2257e-44    2.7105e-25
+                Hcon:Hcon_Contig0015016:170                    DIRS                  1             4487             4487               4487    3.5871e-22    2.1740e-28    6.3321e-28
+                Hcon:Hcon_Contig0015016:547                    DIRS                  1             4487             4487               4487    3.5871e-22    2.1740e-28    6.3321e-28
+               Hcon:Hcon_Contig0057469:6914                 YR_only                  1            17696            27787              17696    4.6732e-22             -             -
+              Hcon:Hcon_Contig0058019:17585               pat1-like               7585            26392            26392              18808    2.1088e-21    5.2162e-43    2.1591e-28
+                Hcon:Hcon_Contig0043233:467                 YR_only                  1             1289             1289               1289    4.5168e-19             -             -
+                Hcon:Hcon_Contig0043233:757                 YR_only                  1             1289             1289               1289    4.5168e-19             -             -
+              Hcon:Hcon_Contig0055635:22060                 YR_only              12060            32644            55137              20585    9.0749e-17             -             -
+              Hcon:Hcon_Contig0059666:80650               pat1-like              70650            91087            91664              20438    1.3055e-16    6.8495e-09    3.3438e-24
+               Hcon:Hcon_Contig0056498:4423                 YR_only                  1             5130             5130               5130    1.4656e-15             -             -
+               Hcon:Hcon_Contig0056498:4334                 YR_only                  1             5130             5130               5130    1.4656e-15             -             -
+              Hcon:Hcon_Contig0058845:29605                    DIRS              19605            37625            37625              18021    6.6225e-14    6.0046e-20    4.7394e-04
+               Hcon:Hcon_Contig0046220:1432                 YR_only                  1             3726             3726               3726    1.9245e-12             -             -
+               Hcon:Hcon_Contig0048118:1191                 YR_only                  1            11418            21399              11418    7.7379e-12             -             -
+              Hcon:Hcon_Contig0057742:11207                 YR_only               1207            15513            15513              14307    1.6165e-10             -             -
+              Hcon:Hcon_Contig0056839:13228                    DIRS               3228            23455            48918              20228    3.4892e-10    2.3253e-20    3.0601e-16
+                 Hcon:Hcon_Contig0021191:20                 YR_only                  1             1362             1362               1362    4.1538e-10             -             -
+              Hcon:Hcon_Contig0024553:14083                 YR_only               4083            14964            14964              10882    6.2773e-10             -             -
+               Hcon:Hcon_Contig0058696:5069                 YR_only                  1            15329            15729              15329    4.8538e-09             -             -
+              Hcon:Hcon_Contig0059030:17196               pat1-like               7196            23444            23444              16249    7.0838e-08    1.7629e-39    1.5729e-23
+              Hcon:Hcon_Contig0059030:17723               pat1-like               7723            23444            23444              15722    9.5261e-07    1.6531e-39    1.5384e-23
+               Hcon:Hcon_Contig0052553:1012                 YR_only                  1             1640             1640               1640    8.9913e-08             -             -
+               Hcon:Hcon_Contig0016203:7708                 YR_only                  1            10236            10236              10236    2.0837e-06             -             -
+              Hcon:Hcon_Contig0059565:39588               pat1-like              29588            50160            68479              20573    3.1110e-06    1.2006e-34    8.6025e-21
+               Hcon:Hcon_Contig0057438:1609             two_domains                  1            11782            15902              11782    9.1637e-06             -    6.0356e-20
+                 Hcon:Hcon_Contig0042759:13                 YR_only                  1             1363             1363               1363    1.9517e-05             -             -
+               Hcon:Hcon_Contig0014427:4238                    DIRS                  1            10095            10095              10095    2.4912e-04    1.7823e-30    5.2175e-12
+               Hcon:Hcon_Contig0016729:3313                 YR_only                  1             3997             3997               3997    2.6826e-04             -             -
+                Hcon:Hcon_Contig0029554:908                 YR_only                  1             2465             2465               2465    1.3658e-03             -             -
+                Hcon:Hcon_Contig0029554:717                 YR_only                  1             2465             2465               2465    1.3658e-03             -             -
+               Hcon:Hcon_Contig0049484:1598                 YR_only                  1             8801             8801               8801    2.4240e-03             -             -
+               Hcon:Hcon_Contig0000154:5812                 YR_only                  1            16444            45297              16444    2.7258e-03             -             -
+               Hcon:Hcon_Contig0000154:5672                 YR_only                  1            15866            45297              15866    2.7258e-03             -             -
+               Hcon:Hcon_Contig0038666:4449                 YR_only                  1             5012             5012               5012    2.8332e-03             -             -
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Indications are structural and not phylogenetic.
+Indications depend on Ugene parameters.
+1. pat1-like: ==>=RT=MT=>>=>=YR=>>=.
+2. kangaroo: ==>=RT=MT=>>=>=RY=>>=.
+3. PAT: =>RT=MT=YR=>>=>=>>.
+4. dirs1-like: =>=RT=MT=YR=<>>=<<=.
+5. Ngaro or Viper: =>RT=YR=>>=>=>>=.

@@ -1,0 +1,19 @@
+YR element hits in Haor
+===================================================================================================================================================================================
+Fragment(species:contig:YR_start_on_contig)    Structure_Indication    start_on_contig    end_on_contig    Contig_length    Fragment_length     YR_evalue    RT_evalue    MT_evalue
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      Haor:contig_104385:19                 YR_only                  1              660              660                660    3.3294e-16            -            -
+                      Haor:contig_109668:92                 YR_only                  1              543              543                543    8.5166e-08            -            -
+                     Haor:contig_100155:176                 YR_only                  1              856              856                856    8.9702e-07            -            -
+                       Haor:contig_17306:32                 YR_only                  1              456              456                456    3.9177e-05            -            -
+                     Haor:contig_101369:167                 YR_only                  1              718              718                718    7.2503e-05            -            -
+                     Haor:contig_139107:442                 YR_only                  1              910              910                910    2.1434e-04            -            -
+                      Haor:contig_66115:111                 YR_only                  1              340              340                340    3.6187e-03            -            -
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Indications are structural and not phylogenetic.
+Indications depend on Ugene parameters.
+1. pat1-like: ==>=RT=MT=>>=>=YR=>>=.
+2. kangaroo: ==>=RT=MT=>>=>=RY=>>=.
+3. PAT: =>RT=MT=YR=>>=>=>>.
+4. dirs1-like: =>=RT=MT=YR=<>>=<<=.
+5. Ngaro or Viper: =>RT=YR=>>=>=>>=.

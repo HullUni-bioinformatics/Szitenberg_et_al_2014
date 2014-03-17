@@ -1,0 +1,261 @@
+ID   104385_19; ; ; DNA; ; UNC; 660 BP.
+XX
+AC   104385_19;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_104385 from: 1
+DE   to: 660
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(19..627)
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="19..627"
+FT                   /evalue="3.32942e-16"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_104385"
+FT                   /translation="LSLHDALPI*SPVVRKVFKGIRALHPAQEKQAAPLQLQHLEQVID
+FT                   WLESEANTAQANADQPGLLRARRDAALILLGFWRGFRSDELCRLQVEHVQAVAGSGITL
+FT                   YLPRSKSDRDNLGKTFQTPALLRLCPVRAYIEWLNTAALVRGPVFRGIDRWGNLSEEGL
+FT                   HANSVIPLLRQALERAGISGEHYTSHSLRRGFATWAHQSG"
+FT   TE              19..627
+FT                   /element="YR_only"
+SQ   Sequence 660 BP; 142 A; 213 C; 177 G; 128 T; 0 other;
+     cagcgacttc aagtcccatc cactttgatg cgcccatgtt gcaaaaccgc gacgaagcga        60
+     gtgactggtg taatgttcgc cagaaatacc ggcgcgctcc agcgcctggc gcagcagcgg       120
+     gatcacgcta ttggcgtgca agccctcctc actcagattg ccccagcgat caatccccct       180
+     gaacaccggg ccacgtacca gagctgccgt attcagccat tcgatgtaag cccgcaccgg       240
+     gcatagcctg agcagcgccg gggtttgaaa ggtcttgccc agattgtcgc gatcactttt       300
+     gcttcgcggc aaatacaagg taatgcccga acctgccacc gcctgcacgt gttcgacctg       360
+     caggcgacac aactcatcac tacgaaaccc gcgccaaaac cccagcagga tcaacgctgc       420
+     atcgcgtcgc gcgcgcagca gccccggctg gtccgcattg gcctgcgcgg tattcgcctc       480
+     actttcaagc cagtcaatga cttgctccag atgctgcaac tgtagcggcg cagcttgctt       540
+     ctcttgggcc ggatgcagtg cgcgaatgcc cttgaacact ttgcgcacca ccggcgacta       600
+     gatcggaaga gcgtcgtgta gggaaagagt gtagatctcg gtggtcgccg tatcattaaa       660
+//
+ID   109668_92; ; ; DNA; ; UNC; 543 BP.
+XX
+AC   109668_92;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_109668 from: 1
+DE   to: 543
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(92..541)
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="92..541"
+FT                   /evalue="8.51661e-08"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_109668"
+FT                   /translation="LAQWHTSQGFPDPTKAPVVRKVLKGIRAVHPAQEKQAEPLQLKHL
+FT                   EQVVASLEKEAKDAAHDVSRLLRAKRDTALILLGFWRGFRSDELCRLEIEHVQATPGAG
+FT                   ISLYLPRSKSDRDNLGKTYHTPALLRLCPVQAYGEWLSASALVRGP"
+FT   TE              92..541
+FT                   /element="YR_only"
+SQ   Sequence 543 BP; 90 A; 180 C; 175 G; 98 T; 0 other;
+     gctccagcgc ctggcgcagc aacgggatca cgctgttggg gtgcaacccc tcctcgccca        60
+     gattgcccca gcgatcgatg ccgcgaaaca ccgggccacg caccaaggcc gaggcgctga       120
+     gccactcgcc gtaggcctgc accgggcaca ggcgcagcag cgctggggtg tgataggtct       180
+     tgccgaggtt gtcgcggtcg cttttgctgc gcggcagata caggctgatg cccgcgccgg       240
+     gcgtcgcttg cacatgttca atctcgaggc ggcacagctc atcgctgcga aagccgcgcc       300
+     agaagcccag caggatcaat gcagtgtcgc gcttggcgcg cagtagccga gacacgtcgt       360
+     gggctgcgtc tttcgcctcc ttctcaagag aagccaccac ctgctcaagg tgtttgagtt       420
+     gcagaggctc ggcttgcttt tcctgcgccg ggtgcacagc acgaatgccc ttgagcactt       480
+     tgcgcaccac cggcgccttg gtcgggtcgg gaaagccctg gctcgtatgc cactgcgcca       540
+     gtg                                                                     543
+//
+ID   100155_176; ; ; DNA; ; UNC; 856 BP.
+XX
+AC   100155_176;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_100155 from: 1
+DE   to: 856
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(176..835)
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="176..835"
+FT                   /evalue="8.9702e-07"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_100155"
+FT                   /translation="LPDAGRELILDHLAWRLDQGYKPRSTARFLSGARGFYRYLLREKL
+FT                   IALDPTLQVDMPQLGKPLPKSLSEADVEALLKAPDLGEAIGQRDRAMLEVLYACGLRVT
+FT                   ELVSLTLDQVNLRQGVLRVMGKGSKERLVPMGEEAVVWVERYLRDGRVELLNGRPSDVL
+FT                   FPSQRGEQMTRQTFWHRIKHQAQVAGIGKALSPHTLRHAFATHLLNHGADLRVVQML"
+FT   TE              176..835
+FT                   /element="YR_only"
+SQ   Sequence 856 BP; 140 A; 281 C; 298 G; 137 T; 0 other;
+     cgggtgtaaa ccgcgaaagc gtaccacatt cgccgccctg cattgactgc tggcgacgca        60
+     tgcaatgtgc gatcagcgct cagccgcgcg ggtgatgatg ggcatgcagt tcctgcaggc       120
+     gggcgcgggc cacatgggtg tagatctggg tggtcgacag gtcgctgtgg cccagcagca       180
+     tctgcaccac gcgcaggtcg gcgccgtggt tgagcaggtg ggtggcgaag gcatggcgca       240
+     gggtgtgcgg cgacagcgcc ttgccgatcc cggccacctg ggcctggtgc ttgatgcggt       300
+     gccagaaggt ctggcgggtc atctgctcgc cacgctggct ggggaacagg acatcgctgg       360
+     ggcggccgtt gagcagttcg acgcggccgt cgcgcaggta acgttctacc cacaccaccg       420
+     cctcctcccc catcggcacc aggcgctcct tgctgccctt gcccatcacc cgcagcacgc       480
+     cctggcgcag gttgacctga tcgagggtca ggctcaccag ctcggtgacg cgcagcccgc       540
+     aggcatacag cacctcgagc atggcgcggt cgcgctggcc gatggcctcg ccaaggtcgg       600
+     gagccttcaa cagggcctcc acatcggcct cggacagcga cttgggcaac ggcttgccca       660
+     gttgcggcat gtcgacctgc agggtcgggt cgagggcgat cagcttctcg cgcagcaggt       720
+     agcggtagaa gccacgcgcg cccgacagga accgcgccgt ggaacggggc ttgtagccct       780
+     ggtcgaggcg ccatgccaag tggtccagga tcagctcgcg accggcatcg ggcaacacca       840
+     tgccacgttc ctgaag                                                       856
+//
+ID   17306_32; ; ; DNA; ; UNC; 456 BP.
+XX
+AC   17306_32;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_17306 from: 1 to:
+DE   456
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(32..454)
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="32..454"
+FT                   /evalue="3.91769e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_17306"
+FT                   /translation="DPTKAPLVRQMLKGIRAVHPAQERQAAALTLEHLQRTVDALHTKA
+FT                   AQAQQAHCLPELLRARRDVALLLIGFWRGFRGDELARLRVEHIQAQAGVGMQLYLAQSK
+FT                   GDRQGRGVSHRTPALKSLCPVQAYIDWISVAGIARGP"
+FT   TE              32..454
+FT                   /element="YR_only"
+SQ   Sequence 456 BP; 57 A; 163 C; 161 G; 75 T; 0 other;
+     ggtcgccaca gcgagcgggc ttgcgaacca ccggcccgcg ggcgatgccc gccacgctga        60
+     tccagtcgat gtaggcctgt accgggcaca ggctcttcag ggcaggggtg cgatgactga       120
+     ccccgcggcc ctgccggtcc cctttgcttt gcgccaggta cagctgcatg cccacgcccg       180
+     cctgggcctg aatgtgctcc acgcgcaggc gcgccagttc atcgcccctg aaccctcgcc       240
+     agaacccgat cagcagcagg gcgacatcgc gccgtgcgcg cagcagctcg ggcaggcagt       300
+     gcgcctgttg cgcctgtgcg gccttggtgt gcagtgcgtc gaccgtgcgc tgcaggtgtt       360
+     ccagggtcag ggcggctgcc tggcgctcct gcgccgggtg caccgcgcgt atgcccttga       420
+     gcatctggcg caccagcggc gccttggtgg ggtcgg                                 456
+//
+ID   101369_167; ; ; DNA; ; UNC; 718 BP.
+XX
+AC   101369_167;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_101369 from: 1
+DE   to: 718
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          complement(167..610)
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="167..610"
+FT                   /evalue="7.25032e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_101369"
+FT                   /translation="EALLAAPDLSEAIGQRDRAMLEVLYACGLRVTELVSLTLEQVNLR
+FT                   QGVLRVMGKGSKERLVPMGEEAIVWVERYLRDGRAELLNGRPSDVLFPSLRGEQMTRQT
+FT                   FWHRIKHQAMVAGIEKSLSPHTLRHAFATHLLNHGADLRVVQML"
+FT   TE              167..610
+FT                   /element="YR_only"
+SQ   Sequence 718 BP; 134 A; 227 C; 218 G; 132 T; 7 other;
+     gggccgcttt cgaaacccgg aaatgcctcc cacagatggc ttgcggggcc gacgatcaac        60
+     tgacgtccag ctagcctcgc ggatggtgct gggcgtgcag atcttgcaag cgggcgcggg       120
+     ctacgtgggt gtaaatctgc gtggtggaca ggtcgctgtg ccccaacagc atctgcacca       180
+     cgcgcaaatc ggcgccatgg ttgagcaaat gagtggcaaa ggcgtgccgc aacgtgtgcg       240
+     gggacagcga tttttcgatc ccggccacca tggcctgatg cttgatgcgg tgccagaagg       300
+     tctggcgggt catttgctca ccgcgcaggc tggggaacag cacatcgctg gggcggccat       360
+     tcagcaactc ggcacggcca tcacgcaggt agcgttcaac ccagacaatc gcctcctcgc       420
+     ccatcggcac cagccgctcc ttactgccct tgcccatcac ccgcagcacg ccctggcgca       480
+     gattcacttg ctccagggtc aggctgacca gctcggtcac ccgcaatccg caggcataca       540
+     ggacttcaag catggcgcgg tcacgctggc cgatggcttc actcagatct ggcgcggcga       600
+     gcaaggcttc tacgtctgct tctgacagtg acttgggcaa aggccggcct aactgcggca       660
+     tatcgacctg caaggtcggg cnnnnnnnga gaccgatatc gtatgccgcc ttctgctt         718
+//
+ID   139107_442; ; ; DNA; ; UNC; 910 BP.
+XX
+AC   139107_442;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_139107 from: 1
+DE   to: 910
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          442..876
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="442..876"
+FT                   /evalue="0.000214344"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_139107"
+FT                   /translation="DNTLTSYRRDLTALADWLEHADSDLLQVQALDLQAYLAERVEGGY
+FT                   KATSSARLLSAMRRFFQYLYREKRRSDDPSAVLSSPKLPQRLPKDLSEAQVSALLQAPC
+FT                   VDEPLELRDKAMLEVLYATGLRVSELVGLTIADVSLRQGVV"
+FT   TE              442..876
+FT                   /element="YR_only"
+SQ   Sequence 910 BP; 221 A; 207 C; 256 G; 226 T; 0 other;
+     ccggggctgc gtccgcctct gcatcgagag tgggcgtgat ggtggcttgc ataggactct        60
+     attatctttt tttatcgaca gaactgtcat tctagtcaca gaaaaaaaaa gcatttcaat       120
+     gctagcccaa aaagtgaaaa agcggctaca gagcctgctt tggcgagttg cgcgattgta       180
+     aatacttcct gtgatataag ttatgcgtta ccctattttg tagtgcagag cggtgaataa       240
+     tgcagcataa aataaatttg cataaaaaat cggcggcgcg aattcaggtg atgatcctgc       300
+     cctttttacc gtcacttcgg gcataataac gccagggttt taccctgcac gccgtacagc       360
+     gaggagaagc gtatgcaagc acagggtcgg gcacacatcg aacagtttct tgaagctatg       420
+     tggctggaac gaaacctggc tgataacacg ctgacctctt accggcgaga tttaaccgca       480
+     ctggccgatt ggttggagca tgctgatagt gatttattgc aggtgcaggc gctggatctg       540
+     caagcttatc ttgccgaacg cgtggaaggg ggatacaaag cgaccagttc ggcgcgtttg       600
+     ctgagtgcca tgcgtcgctt ttttcagtat ttataccggg aaaaacggcg tagtgacgac       660
+     cccagcgcgg tattatcttc tcccaaattg ccccagcgct tgcccaaaga tctcagcgaa       720
+     gcgcaggtga gtgcgttgtt gcaagcgccc tgtgtggatg aaccgcttga gctgcgtgat       780
+     aaagccatgc ttgaggtgct ttatgccacc gggctacgcg tctcggaact ggtggggctg       840
+     accattgcag atgtcagttt acgccaaggc gtcgtgcggg tgattggtaa aggtaataaa       900
+     gaacggctgg                                                              910
+//
+ID   66115_111; ; ; DNA; ; UNC; 340 BP.
+XX
+AC   66115_111;
+XX
+DE   Assembly: Howardula_aoronymphium_clc_1.fa, contig: contig_66115 from: 1 to:
+DE   340
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          111..338
+FT                   /product="YR"
+FT                   /assembly="Howardula_aoronymphium_clc_1.fa"
+FT                   /loc_on_contig="111..338"
+FT                   /evalue="0.00361866"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="contig_66115"
+FT                   /translation="DNTRRSYRAAIEHFEVSWGGFLPATSDSVARYLVAHAGVLAVNTL
+FT                   KLRLSALAQWHTSQGFPDPTKAPGGRKVLKG"
+FT   TE              111..338
+FT                   /element="YR_only"
+SQ   Sequence 340 BP; 65 A; 105 C; 110 G; 60 T; 0 other;
+     ttggcgtatt atcccgtgtc atgcgggttg gacccgcgaa agccaccgcc agcagtacga        60
+     ataggcctct catgagcgat ctggatcgtt acctcaacgc cgccacccgc gataacacgc       120
+     gacgcagtta ccgtgcggcc atcgagcatt tcgaagtgag ctggggaggg ttcctgcccg       180
+     cgaccagcga cagcgtggcg cgttatctgg tggcgcatgc cggcgtcttg gcggtcaaca       240
+     cgctcaagct acggttgtcg gcactggcgc agtggcatac gagccagggc tttcccgacc       300
+     cgaccaaggc gccggggggg cgcaaagtgc tcaaaggcat                             340
+//

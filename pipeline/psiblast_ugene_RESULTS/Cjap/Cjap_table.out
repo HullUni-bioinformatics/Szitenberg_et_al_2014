@@ -1,0 +1,74 @@
+YR element hits in Cjap
+=====================================================================================================================================================================================
+Fragment(species:contig:YR_start_on_contig)    Structure_Indication    start_on_contig    end_on_contig    Contig_length    Fragment_length     YR_evalue     RT_evalue     MT_evalue
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                Cjap:Cjap.Contig18200:33785                    DIRS              23785            44558           275094              20774    1.0035e-21    1.0808e-37    1.1680e-24
+               Cjap:Cjap.Contig18123:104506               pat1-like              94506           115279           199301              20774    3.0724e-21    1.1620e-37    1.1680e-24
+                Cjap:Cjap.Contig12825:11803                    DIRS               1803            15257            15257              13455    2.0615e-19    2.5238e-38    3.4562e-27
+                 Cjap:Cjap.Contig10890:9055                 YR_only                  1            16015            16015              16015    3.6676e-19             -             -
+                Cjap:Cjap.Contig17406:10757                    DIRS                757            21530            23758              20774    2.0793e-18    8.4656e-16    1.1251e-18
+                  Cjap:Cjap.Contig3315:7730             two_domains                  1            10057            10057              10057    9.0116e-18             -    1.2375e-20
+                 Cjap:Cjap.Contig17898:5179                 YR_only                  1            15943            81470              15943    1.5879e-17             -             -
+                  Cjap:Cjap.Contig11085:320                 YR_only                  1             1311             1311               1311    2.6129e-17             -             -
+                Cjap:Cjap.Contig17341:16102             two_domains               6102            26875            41403              20774    3.8817e-17             -    5.0523e-14
+                   Cjap:Cjap.Contig2503:490                 YR_only                  1             7475             7475               7475    4.7267e-17             -             -
+                Cjap:Cjap.Contig17676:50451             two_domains              40451            61215           100499              20765    9.4265e-17    8.0688e-05             -
+                 Cjap:Cjap.Contig16946:2165                    DIRS                  1            12938            17305              12938    1.4530e-16    1.1119e-42    3.5281e-26
+                  Cjap:Cjap.Contig1967:1471             two_domains                  1             3654             3654               3654    1.6577e-16             -    1.0571e-29
+                   Cjap:Cjap.Contig14862:16                 YR_only                  1             2098             2098               2098    3.2554e-16             -             -
+                 Cjap:Cjap.Contig17718:7436                    DIRS                  1            16944            16944              16944    3.9396e-16    2.2455e-33    1.7452e-28
+                Cjap:Cjap.Contig17985:33695             two_domains              23695            44477           163322              20783    8.3603e-16             -    7.3521e-24
+               Cjap:Cjap.Contig17985:135809               pat1-like             125809           146582           163322              20774    2.5882e-11    1.5782e-37    2.9108e-26
+                Cjap:Cjap.Contig15407:15533                 YR_only               5533            26315            33696              20783    1.3824e-15             -             -
+                 Cjap:Cjap.Contig12796:7246                 YR_only                  1            18028            23833              18028    1.3855e-15             -             -
+                 Cjap:Cjap.Contig3879:25845                 YR_only              15845            36627           113444              20783    1.5485e-15             -             -
+                Cjap:Cjap.Contig18180:62848                 YR_only              52848            73606           340597              20759    1.5777e-15             -             -
+                Cjap:Cjap.Contig17772:26070                 YR_only              16070            27301            27301              11232    1.9188e-15             -             -
+               Cjap:Cjap.Contig17953:132496                 YR_only             122496           143278           206760              20783    3.5615e-15             -             -
+                Cjap:Cjap.Contig17988:88069             two_domains              78069            97098            97098              19030    4.7354e-15             -    5.4035e-24
+               Cjap:Cjap.Contig17598:143960                 YR_only             133960           145298           145298              11339    7.6351e-15             -             -
+               Cjap:Cjap.Contig18212:340104                 YR_only             330104           350874           583440              20771    1.9612e-14             -             -
+                Cjap:Cjap.Contig17044:48508                 YR_only              38508            59278            59516              20771    2.2052e-14             -             -
+                  Cjap:Cjap.Contig6961:6199             two_domains                  1             8376             8376               8376    2.4721e-14             -    4.3659e-23
+                Cjap:Cjap.Contig18266:26350                 YR_only              16350            37120            79848              20771    4.3018e-14             -             -
+                 Cjap:Cjap.Contig17882:1193             two_domains                  1            11912           230544              11912    4.4053e-14             -    1.1642e-28
+                 Cjap:Cjap.Contig17882:1908             two_domains                  1            11970           230544              11970    4.4053e-14             -    1.1642e-28
+                Cjap:Cjap.Contig16338:47579                 YR_only              37579            58313           100001              20735    7.8458e-14             -             -
+                  Cjap:Cjap.Contig18233:314                 YR_only                  1            11084            25654              11084    1.0285e-13             -             -
+                 Cjap:Cjap.Contig16814:3652                    DIRS                  1            13867            15379              13867    4.5861e-13    1.4848e-40    2.2583e-24
+                 Cjap:Cjap.Contig16814:3086                    DIRS                  1            13559            15379              13559    4.5861e-13    1.4848e-40    2.2583e-24
+                Cjap:Cjap.Contig17481:64315                 YR_only              54315            65892            65892              11578    4.8787e-12             -             -
+                Cjap:Cjap.Contig17481:64634                 YR_only              54634            65892            65892              11259    4.8787e-12             -             -
+               Cjap:Cjap.Contig16299:152212                 YR_only             142212           155081           155081              12870    1.3682e-11             -             -
+                 Cjap:Cjap.Contig16528:5528                 YR_only                  1            16088            70286              16088    5.3423e-11             -             -
+                Cjap:Cjap.Contig17179:74606             two_domains              64606            76607            76607              12002    1.3382e-10             -    5.5205e-22
+                     Cjap:Cjap.Contig7366:1                 YR_only                  1             1160             1160               1160    8.3042e-10             -             -
+                Cjap:Cjap.Contig17844:27687             two_domains              17687            38130           161554              20444    7.3397e-09    2.7210e-04             -
+                  Cjap:Cjap.Contig9500:4366                 YR_only                  1             4719             4719               4719    9.0452e-09             -             -
+                Cjap:Cjap.Contig17356:33351                    DIRS              23351            36076            36076              12726    1.6410e-08    1.0847e-31    5.2803e-25
+                Cjap:Cjap.Contig17553:57879                 YR_only              47879            68115            82086              20237    2.3276e-08             -             -
+                 Cjap:Cjap.Contig13666:2407                 YR_only                  1             3534             3534               3534    5.6078e-08             -             -
+               Cjap:Cjap.Contig18168:101206                 YR_only              91206           110869           110869              19664    8.9033e-08             -             -
+                 Cjap:Cjap.Contig13309:1163                 YR_only                  1             1379             1379               1379    2.9371e-07             -             -
+                Cjap:Cjap.Contig17091:11719                 YR_only               1719            12120            12120              10402    8.9516e-07             -             -
+                     Cjap:Cjap.Contig533:37                    DIRS                  1            10708            20973              10708    9.4580e-07    5.1691e-39    7.1376e-24
+               Cjap:Cjap.Contig18175:217709                 YR_only             207709           228467           239607              20759    9.5454e-07             -             -
+               Cjap:Cjap.Contig17605:151216             two_domains             141216           161854           184758              20639    1.7800e-06    3.9125e-17             -
+               Cjap:Cjap.Contig17605:153146             two_domains             143146           163505           184758              20360    4.1797e-06    4.1577e-17             -
+                  Cjap:Cjap.Contig10063:143                 YR_only                  1             4556             4556               4556    3.8956e-06             -             -
+                  Cjap:Cjap.Contig2236:2635                    DIRS                  1             9979             9979               9979    4.0818e-05    3.4198e-40    1.7818e-25
+                 Cjap:Cjap.Contig18061:6809             two_domains                  1            16997           136787              16997    6.0977e-05    6.0272e-19             -
+                Cjap:Cjap.Contig16641:25791                 YR_only              15791            31695            31695              15905    1.3918e-04             -             -
+                Cjap:Cjap.Contig17204:35387                    DIRS              25387            45731           118061              20345    3.7930e-04    2.4831e-41    7.4194e-15
+                  Cjap:Cjap.Contig10267:463                 YR_only                  1             4687             4687               4687    6.6070e-04             -             -
+                  Cjap:Cjap.Contig12798:961                 YR_only                  1             1104             1104               1104    9.4970e-04             -             -
+                  Cjap:Cjap.Contig3715:1213                 YR_only                  1             5221             5221               5221    1.2064e-03             -             -
+                    Cjap:Cjap.Contig783:500                 YR_only                  1             8902             8902               8902    1.3551e-03             -             -
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Indications are structural and not phylogenetic.
+Indications depend on Ugene parameters.
+1. pat1-like: ==>=RT=MT=>>=>=YR=>>=.
+2. kangaroo: ==>=RT=MT=>>=>=RY=>>=.
+3. PAT: =>RT=MT=YR=>>=>=>>.
+4. dirs1-like: =>=RT=MT=YR=<>>=<<=.
+5. Ngaro or Viper: =>RT=YR=>>=>=>>=.

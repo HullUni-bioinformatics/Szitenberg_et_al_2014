@@ -1,0 +1,43 @@
+ID   19048_352; ; ; DNA; ; UNC; 994 BP.
+XX
+AC   19048_352;
+XX
+DE   Assembly: onchocerca_volvulus_1_supercontigs.fasta, contig:
+DE   Supercontig_1.9048 from: 1 to: 994
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FT   DOMAIN          352..792
+FT                   /product="YR"
+FT                   /assembly="onchocerca_volvulus_1_supercontigs.fasta"
+FT                   /loc_on_contig="352..792"
+FT                   /evalue="1.19292e-05"
+FT                   /serial_on_frag=1
+FT                   /program="psitblastn_2.2.28+"
+FT                   /contig="Supercontig_1.9048"
+FT                   /translation="DALIQAPDIETALGLRDRAMFEVLYACGLRVSELLNLRLDLINLK
+FT                   QGYLRITGKGNKERLVPLGQIAVEWVEKYLIESRPQLYKSATDYLFLTQHGGIMSRQNF
+FT                   WYAIKRYALQAGIQAELSPHTLRHAFATHLLNHGADLRVVQML"
+FT   TE              352..792
+FT                   /element="YR_only"
+SQ   Sequence 994 BP; 274 A; 244 C; 207 G; 269 T; 0 other;
+     gcctgttcaa attccaactc agctcagttt tttacacggc tttaaagatt atctcattgc        60
+     acaaaccgtc agcccacaca cccgaaatgc ttatctctct gacttattgc agtgcagcga       120
+     gtgtagtcgg gtgagcatgc ctgaatggag cagtgacgat gtcgccgatg ttctgctgac       180
+     cctcaccaag caaggcaaaa gcccgcgctc cattgcgcgc tgtctgtctg ctctgcgttc       240
+     ttttttaagt ttctacggga acaaaaactg cgttcagaca accctgtcgc actacataaa       300
+     acacccaaaa ttggccgtgc actgcctaaa gatttgtctg agcaagacgt ggatgcctta       360
+     atccaagctc cagatattga aaccgctctc ggactccgtg atcgtgccat gtttgaagtg       420
+     ttgtatgcct gtggtttacg tgtatctgag ctactgaatc tacgcctaga cttaatcaat       480
+     ttgaaacaag gctatttaag gattacgggt aagggcaata aagaaagact ggtacctttg       540
+     gggcaaatcg cagtggaatg ggtcgaaaaa tacttaattg aatcccgtcc gcaattatat       600
+     aaatctgcaa ctgactatct atttttaact caacatggcg gcattatgag tcggcaaaac       660
+     ttttggtacg ccattaaacg ctatgcctta caagcaggga ttcaggctga actatctcca       720
+     cacaccttac gacatgcttt tgcaacgcat ttactcaatc acggtgctga cttgcgtgtg       780
+     gtacaaatgt tattgggaca tagtgatctg tccacgacac aaatttacac ccatgtcgca       840
+     caagtgcgta tgcaacaact acatgccagc catcacccaa gggcttaata cggaaaccca       900
+     gctcttcagc atatttcaca tcttgtgctg tgattttact gatgccttcg gtatagactt       960
+     tgtcaaactg tagcggaata ccaaaaagca cacg                                   994
+//

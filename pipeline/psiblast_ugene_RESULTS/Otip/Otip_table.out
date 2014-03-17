@@ -1,0 +1,24 @@
+YR element hits in Otip
+====================================================================================================================================================================================
+Fragment(species:contig:YR_start_on_contig)    Structure_Indication    start_on_contig    end_on_contig    Contig_length    Fragment_length     YR_evalue    RT_evalue     MT_evalue
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                         Otip:contig_2058:5             two_domains                  1              982              982                982    3.7374e-36            -    9.2660e-21
+                      Otip:contig_13281:120                 YR_only                  1              327              327                327    6.5720e-18            -             -
+                       Otip:contig_13156:43                 YR_only                  1              451              451                451    7.6798e-15            -             -
+                       Otip:contig_15123:14                 YR_only                  1              616              616                616    2.2105e-12            -             -
+                        Otip:contig_1467:90                 YR_only                  1             1300             1300               1300    3.0234e-11            -             -
+                        Otip:contig_15074:3                 YR_only                  1              444              444                444    4.3642e-06            -             -
+                       Otip:contig_2556:296                 YR_only                  1              932              932                932    1.4645e-05            -             -
+                      Otip:contig_8477:1336                 YR_only                  1             1726             1726               1726    3.2323e-05            -             -
+                       Otip:contig_3635:296                 YR_only                  1              604              604                604    3.5089e-05            -             -
+                       Otip:contig_3635:121                 YR_only                  1              604              604                604    3.5089e-05            -             -
+                     Otip:contig_6936:15835                 YR_only               5835            16933            16933              11099    2.9165e-03            -             -
+                        Otip:contig_13340:9                 YR_only                  1              357              357                357    4.9507e-03            -             -
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Indications are structural and not phylogenetic.
+Indications depend on Ugene parameters.
+1. pat1-like: ==>=RT=MT=>>=>=YR=>>=.
+2. kangaroo: ==>=RT=MT=>>=>=RY=>>=.
+3. PAT: =>RT=MT=YR=>>=>=>>.
+4. dirs1-like: =>=RT=MT=YR=<>>=<<=.
+5. Ngaro or Viper: =>RT=YR=>>=>=>>=.
