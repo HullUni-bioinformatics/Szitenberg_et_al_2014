@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Szitenberg_et_al_2014</title>
+
 </head>
 <body>
 
