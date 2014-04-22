@@ -1,8 +1,7 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-
 </head>
 <body>
 
@@ -2249,7 +2248,7 @@ In&nbsp;[1]:
 </div>
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="make-query-models-from-query-seed-alignments">Make query models from query seed alignments</h1>
-<p>I am using seed query alignments to query all the DIRS, Ngaro and crypton proteins from repbase, retrobase and some additional pat elements and get an extended MSA file to serve as a basis for query models.<br />The seed alignments are as follows: <br></ber> For RT, MT and YR I am using the query alignment from Piednoël et al. (2012). For GAG I am using some proteins from Repase and retrobase.</p>
+<p>I am using seed query alignments to query all the DIRS, Ngaro and crypton proteins from repbase, retrobase and some additional pat elements and get an extended MSA file to serve as a basis for query models.<br />The seed alignments are as follows: <br> For RT, MT and YR I am using the query alignment from Piednoël et al. (2012). For GAG I am using some proteins from Repase and retrobase.</p>
 </div>
 <div class="cell border-box-sizing code_cell vbox">
 <div class="input hbox">
@@ -2318,13 +2317,13 @@ UGENE parameters may determine whether a sturcture is identified or not for a mi
 <font size=4> The results folder contain a subfolder for each assembly. These subflders are named with the assembly code as listed in the code cell bellow. Each subfolder contains:
 <ol>
     <li>
-<strong><font color="red">_table.out:</font></strong> A table with the following info for each identified TRE: Fragment(species:contig:YR_start_on_contig), Structure_Indication, start_on_contig, end_on_contig, Contig_length, Fragment_length, YR_evalue, RT_evalue and MT_evalue.
+<strong><font color="red">table.out:</font></strong> A table with the following info for each identified TRE: Fragment(species:contig:YR_start_on_contig), Structure_Indication, start_on_contig, end_on_contig, Contig_length, Fragment_length, YR_evalue, RT_evalue and MT_evalue.
 </li>
 <li>
-<strong><font color="red">_YR_fragments.embl:</font></strong> YR fragment sequences in embl format. The features include all the protein domains and repeat sequences found. The TE feature provide the element's approximate borders. Since only identical repeats are searched for, the repeats borders are approximate. The locations provided are fuzzy, although they are formated as precise.
+<strong><font color="red">YR_fragments.embl:</font></strong> YR fragment sequences in embl format. The features include all the protein domains and repeat sequences found. The TE feature provide the element's approximate borders. Since only identical repeats are searched for, the repeats borders are approximate. The locations provided are fuzzy, although they are formated as precise.
 </li>
 <li>
-<strong><font color="red">_YR_fragments.fas:</font></strong> YR fragment sequences in fasta format.
+<strong><font color="red">YR_fragments.fas:</font></strong> YR fragment sequences in fasta format.
 </li>
 <li>
 <strong><font color="red">.xml: </font></strong>The PSIBLAST results. Three .xml files exist, one for each domain (YR, RT and MT). The YR results provide the location of the YR domain on the contig and the RT and MT results provide the location on the YR fragment (ie, the YR extanded hit)
@@ -4577,7 +4576,7 @@ In&nbsp;[4]:
 <div class="cell border-box-sizing code_cell vbox">
 <div class="input hbox">
 <div class="prompt input_prompt">
-In&nbsp;[8]:
+In&nbsp;[6]:
 </div>
 <div class="input_area box-flex1">
 <div class="highlight"><pre><span class="kn">from</span> <span class="nn">ete2</span> <span class="kn">import</span> <span class="n">Tree</span><span class="p">,</span> <span class="n">TreeFace</span><span class="p">,</span> <span class="n">TreeStyle</span><span class="p">,</span> <span class="n">CircleFace</span><span class="p">,</span> <span class="n">TextFace</span><span class="p">,</span> <span class="n">NodeStyle</span>
@@ -4673,7 +4672,10 @@ In&nbsp;[8]:
                                     <span class="n">add_leaf_name</span><span class="p">(</span><span class="n">leaf</span><span class="p">,</span><span class="s">&#39;black&#39;</span><span class="p">,</span><span class="mi">9</span><span class="p">)</span>
                             <span class="n">add_node_support</span><span class="p">(</span><span class="n">full_tree</span><span class="o">&amp;</span><span class="n">full_tree_clade</span><span class="p">)</span>
                             <span class="n">clade_face</span> <span class="o">=</span> <span class="n">TreeFace</span><span class="p">(</span><span class="n">full_tree</span><span class="o">&amp;</span><span class="n">full_tree_clade</span><span class="p">,</span> <span class="n">ts2</span><span class="p">)</span>
+                            <span class="n">clade_face_newick</span> <span class="o">=</span> <span class="p">(</span><span class="n">full_tree</span><span class="o">&amp;</span><span class="n">full_tree_clade</span><span class="p">)</span><span class="o">.</span><span class="n">write</span><span class="p">()</span>
                             <span class="p">(</span><span class="n">reduced_tree</span><span class="o">&amp;</span><span class="n">matches</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">clade_face</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="n">position</span> <span class="o">=</span> <span class="s">&#39;aligned&#39;</span><span class="p">)</span>
+                            <span class="p">(</span><span class="n">reduced_tree</span><span class="o">&amp;</span><span class="n">matches</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span><span class="o">.</span><span class="n">add_feature</span><span class="p">(</span><span class="s">&#39;full_tree_node&#39;</span><span class="p">,</span><span class="n">clade_face_newick</span><span class="p">)</span>
+                            
 
 <span class="k">for</span> <span class="n">leaf</span> <span class="ow">in</span> <span class="n">reduced_tree</span><span class="p">:</span>
     <span class="k">if</span> <span class="n">leaf</span><span class="o">.</span><span class="n">name</span> <span class="ow">in</span> <span class="n">reduced_tree_leaves_that_were_found_in_the_full_tree</span> <span class="ow">and</span> <span class="s">&#39;RET&#39;</span> <span class="ow">in</span> <span class="n">leaf</span><span class="o">.</span><span class="n">name</span> <span class="ow">or</span> <span class="s">&#39;BAS&#39;</span> <span class="ow">in</span> <span class="n">leaf</span><span class="o">.</span><span class="n">name</span> <span class="ow">or</span> <span class="s">&#39;PAT &#39;</span> <span class="ow">in</span> <span class="n">leaf</span><span class="o">.</span><span class="n">name</span><span class="p">:</span>
@@ -4697,7 +4699,17 @@ In&nbsp;[8]:
 <span class="n">reduced_tree</span><span class="o">.</span><span class="n">set_style</span><span class="p">(</span><span class="n">ns</span><span class="p">)</span>
 <span class="c">#reduced_tree.show(tree_style = ts)</span>
 <span class="k">print</span> <span class="s">&#39;rendering figure&#39;</span>
+
+<span class="n">ts</span><span class="o">.</span><span class="n">legend_position</span><span class="o">=</span><span class="mi">1</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">TextFace</span><span class="p">(</span><span class="s">&#39;sh-like support: &#39;</span><span class="p">,</span> <span class="n">fsize</span><span class="o">=</span><span class="mi">20</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">CircleFace</span><span class="p">(</span><span class="n">radius</span> <span class="o">=</span> <span class="mi">8</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s">&#39;black&#39;</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">TextFace</span><span class="p">(</span><span class="s">&#39; 1 &#39;</span><span class="p">,</span> <span class="n">fsize</span><span class="o">=</span><span class="mi">20</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">CircleFace</span><span class="p">(</span><span class="n">radius</span> <span class="o">=</span> <span class="mi">8</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s">&#39;gray&#39;</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">TextFace</span><span class="p">(</span><span class="s">&#39; 0.9-1 &#39;</span><span class="p">,</span> <span class="n">fsize</span><span class="o">=</span><span class="mi">20</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">CircleFace</span><span class="p">(</span><span class="n">radius</span> <span class="o">=</span> <span class="mi">8</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s">&#39;gainsboro&#39;</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+<span class="n">ts</span><span class="o">.</span><span class="n">legend</span><span class="o">.</span><span class="n">add_face</span><span class="p">(</span><span class="n">TextFace</span><span class="p">(</span><span class="s">&#39; 0.8-0.9 &#39;</span><span class="p">,</span> <span class="n">fsize</span><span class="o">=</span><span class="mi">20</span><span class="p">),</span> <span class="n">column</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
 <span class="n">stdout</span> <span class="o">=</span> <span class="n">reduced_tree</span><span class="o">.</span><span class="n">render</span><span class="p">(</span><span class="s">&#39;./FigureS2.pdf&#39;</span><span class="p">,</span> <span class="n">w</span><span class="o">=</span><span class="mi">1000</span><span class="p">,</span> <span class="n">tree_style</span> <span class="o">=</span> <span class="n">ts</span><span class="p">)</span>
+<span class="n">reduced_tree</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">features</span><span class="o">=</span><span class="p">[],</span> <span class="n">outfile</span><span class="o">=</span><span class="s">&#39;phylogenetic_classification.nhx&#39;</span><span class="p">)</span>
 </pre></div>
 
 </div>
